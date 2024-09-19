@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://abhaydandge.hashnode.dev/](https://abhaydandge.hashnode.dev/)
 
-- 💬 About Me **I am Abhay, an RHCSA-certified professional with a strong passion for DevOps methodologies. My tech stack! Containerization - Docker | Podman | BuildAh | ContainerD | CRI-O Orchestration - Kubernetes (K8S) | Docker Swarm Cloud - AWS | GCP Programming - Python | GO**
+- 💬 Ask me about **I am Abhay, an RHCSA-certified professional with a strong passion for DevOps methodologies. My tech stack! Containerization - Docker | Podman | BuildAh | ContainerD | CRI-O Orchestration - Kubernetes (K8S) | Docker Swarm Cloud - AWS | GCP Programming - Python | GO**
 
 - 📫 How to reach me **abhay.d.patil96@gmail.com**
 
@@ -23,6 +23,8 @@
 <p align="left">
 <a href="https://twitter.com/abhaydpatil96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhaydpatil96" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhaydandge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhaydandge" height="30" width="40" /></a>
+<a href="https://hashnode.com/@abhaydandge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@abhaydandge" height="30" width="40" /></a>
+<a href="https://medium.com/@abhay-dandge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abhay-dandge" height="30" width="40" /></a>
 <a href="/https://abhaydandge.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://abhaydandge.hashnode.dev/" height="30" width="40" /></a>
 </p>
 
