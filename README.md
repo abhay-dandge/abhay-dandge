@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://abhaydandge.hashnode.dev/](https://abhaydandge.hashnode.dev/)
 
-- 💬 Ask me about **I am Abhay, an RHCSA-certified professional with a strong passion for DevOps methodologies. My tech stack! Containerization - Docker | Podman | BuildAh | ContainerD | CRI-O Orchestration - Kubernetes (K8S) | Docker Swarm Cloud - AWS | GCP Programming - Python | GO**
+- 💬 About Me **I am Abhay, an RHCSA-certified professional with a strong passion for DevOps methodologies. My tech stack! Containerization - Docker | Podman | BuildAh | ContainerD | CRI-O Orchestration - Kubernetes (K8S) | Docker Swarm Cloud - AWS | GCP Programming - Python | GO**
 
 - 📫 How to reach me **abhay.d.patil96@gmail.com**
 
